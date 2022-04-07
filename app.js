@@ -44,8 +44,8 @@ window.onresize = function (event) {
 };
 
 // const key = "AIzaSyAKJjcUb5ksE6duUSor-3_l8UCZPhaz58Q";
-// const key = "AIzaSyBoDKDp5HnHDRuWd95MtPgif1vi51M4sQY";
-const key = "AIzaSyAuGOFHhqxN6Er-6PviJHJCFuCRHbIB3hU";
+const key = "AIzaSyBoDKDp5HnHDRuWd95MtPgif1vi51M4sQY";
+// const key = "AIzaSyAuGOFHhqxN6Er-6PviJHJCFuCRHbIB3hU";
 
 // let url = `https://youtube.googleapis.com/youtube/v3/search?maxResults=50&key=${key}&q=${query}&type=video`;
 // let url = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&regionCode=IN&maxResults=25&q=${query}&type=video&key=${key}`;
